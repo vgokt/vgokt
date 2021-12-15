@@ -24,4 +24,7 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 ```javascript
 const vigo = {
 imLearning = [Javascript, Java, Python, HTML, CSS]
+lib = [Bootstrap, React]
+db = [MySQL]
 }
+```
