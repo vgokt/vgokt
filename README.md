@@ -20,3 +20,5 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 🌱 I’m currently learning Javascript, Java, PHP, HTML and many more...
+- 
+![145529099-3a110204-2e26-4150-934d-abcc4179df8c](https://user-images.githubusercontent.com/75607363/146225778-f14582b1-0fb5-4e44-867d-7ff7addda26a.png)
