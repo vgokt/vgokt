@@ -24,7 +24,7 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 ```javascript
 const vigo = {
 pronouns = ["He","Him]
-imLearning = [Javascript, Java, Python, HTML, CSS]
+imLearning = [Javascript, Java, Python, HTML, CSS, Node.js]
 lib = [Bootstrap, React]
 db = [MySQL]
 }
