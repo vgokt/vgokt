@@ -36,5 +36,5 @@ db = [MySQL]
 <p align="center">
 <a href="https://twitter.com/vigooktario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vigooktario" height="30" width="40" /></a>
 <a href="https://instagram.com/vigookta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vigookta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vigo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMJHbecxUeSQTaKmPJiggyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vigo" height="30" width="40" /></a>
 </p>
