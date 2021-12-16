@@ -20,6 +20,7 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 🌱 I’m currently learning Javascript, Java, PHP, HTML and many more...
+- 😄 Pronouns: He | Him
 
 ```javascript
 const vigo = {
