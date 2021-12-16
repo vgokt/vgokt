@@ -28,6 +28,4 @@ lib = [Bootstrap, React]
 db = [MySQL]
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp
-![](https://komarev.com/ghpvc/?username=vigooktarioa)
+(https://github-readme-stats.vercel.app/api?username=vigooktarioa)](https://github.com/anuraghazra/github-readme-stats)
