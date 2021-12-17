@@ -32,7 +32,7 @@ db = ["MySQL"]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigooktarioa&theme=dark"/>
 |---|---|
 
-<div class="row-3">
+<div align="center" class="row-3">
 <!-- Badge Language -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
