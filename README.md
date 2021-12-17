@@ -31,7 +31,7 @@ db = ["MySQL"]
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigooktarioa&theme=dark"/>
 |---|---|
-<div class="row-3">
+<div class="row-9">
 <!-- Badge Language -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,6 +43,7 @@ db = ["MySQL"]
 <!-- Badge Database -->
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+                                                                                                   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/vigooktario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vigooktario" height="30" width="40" /></a>
