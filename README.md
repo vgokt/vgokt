@@ -31,8 +31,7 @@ UI = ["Bootstrap","React","Bulma","Tailwind"]
 ```
 
 <!-- Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vigooktarioa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vigooktarioa/github-readme-stats)
 |---|---|
 
 <!-- Badge  -->
