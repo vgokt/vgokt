@@ -32,8 +32,8 @@ UI = ["Bootstrap","React","Bulma","Tailwind"]
 
 <!-- Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigooktarioa&theme=dark"/> -->
-<!-- |---|---| -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vigooktarioa/github-readme-stats)
+|---|---|
 
 <!-- Badge  -->
 <div align="center" class="row-3">
