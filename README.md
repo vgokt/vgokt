@@ -31,7 +31,7 @@ UI = ["Bootstrap","React","Bulma","Tailwind"]
 ```
 
 <!-- Stats -->
-<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)</center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigooktarioa&theme=dark"/> -->
 <!-- |---|---| -->
 
