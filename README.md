@@ -21,15 +21,6 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 🌱 I’m currently learning Javascript, Java, PHP, HTML and many more...
 
-<!-- Some cringe Javascript syntax -->
-```javascript
-const vigo = {
-pronouns = ["He","Him"]
-imLearning = ["Javascript","Java","Python","HTML","CSS","Node.js"]
-UI = ["Bootstrap","React","Bulma","Tailwind"]
-}
-```
-
 <!-- Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|<img src="https://github-readme-stats.vercel.app/api?username=PanGami&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanGami&theme=react"/>
 |---|---|
