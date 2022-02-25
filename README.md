@@ -22,7 +22,7 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 - 🌱 I’m currently learning Javascript, Java, PHP, HTML and many more...
 
 <!-- Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|<img src="https://github-readme-stats.vercel.app/api?username=PanGami&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PanGami&theme=react"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|<img src="https://github-readme-stats.vercel.app/api?username=vigooktarioa&theme=react&show_icons=true)">
 |---|---|
 
 <!-- Badge  -->
