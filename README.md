@@ -47,4 +47,4 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 </p>
 <!-- End connect with me -->
 
-(https://activity-graph.herokuapp.com/graph?username=vigooktarioa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://activity-graph.herokuapp.com/graph?username=vigooktarioa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph
