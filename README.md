@@ -39,6 +39,8 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
+[![vigooktarioa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vigooktarioa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Connect with me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -47,4 +49,4 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 </p>
 <!-- End connect with me -->
 
-[![vigooktarioa's github activity graph](https://activity-graph.herokuapp.com/graph?username=PanGami&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
