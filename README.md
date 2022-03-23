@@ -29,9 +29,6 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 <!-- Contribution graph -->
 [![vigooktarioa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vigooktarioa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Spotify -->
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ebsk7ebxtx2ib496gidk21zyt?si=dbd2e56efef54465&nd=1)
-
 <!-- Badge  -->
 <div align="center" class="row-3">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
