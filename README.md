@@ -26,9 +26,6 @@ I'm Vigo Oktario Arifianto, people call me Vigo.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigooktarioa&show_icons=true&theme=tokyonight)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigooktarioa&theme=react"/>
 |---|---|
 
-<!-- Contribution graph -->
-[![vigooktarioa's github activity graph](https://activity-graph.herokuapp.com/graph?username=vigooktarioa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- Badge  -->
 <div align="center" class="row-3">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
