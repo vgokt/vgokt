@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi There!
+Hi There! 
 I'm Vigo Oktario Arifianto, people call me Vigo.
 
 - 🔭 I’m currently studying on SMK Telkom Malang
